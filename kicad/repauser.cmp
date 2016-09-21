@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 20/10/2013 18:33:56 PM
+
+BeginCmp
+TimeStamp = /5262BD62;
+Reference = 0.1uF1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BDFD;
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BDDF;
+Reference = D2;
+ValeurCmp = 1N4148;
+IdModule  = DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BCF7;
+Reference = IC1;
+ValeurCmp = ATTINY85-P;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BD4E;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BF73;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE25;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE52;
+Reference = R3;
+ValeurCmp = 22;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE34;
+Reference = R4;
+ValeurCmp = 47;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE61;
+Reference = R5;
+ValeurCmp = 47;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE43;
+Reference = R6;
+ValeurCmp = 22;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE70;
+Reference = R7;
+ValeurCmp = 220k;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262BE7F;
+Reference = R8;
+ValeurCmp = FSR;
+IdModule  = AUDIOJACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5262C547;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+EndListe
